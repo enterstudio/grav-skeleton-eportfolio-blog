@@ -1,0 +1,53 @@
+settings:
+  title: Mainmenu
+ordering:
+  home: ''
+  blog:
+    sunshine-in-the-hills: ''
+    the-urban-jungle: ''
+    london-industry: ''
+  projects:
+    project-one: ''
+    project-two: ''
+    project-three: ''
+  about: ''
+  contact: ''
+items:
+  home:
+    enabled: '1'
+    dropdown_dir: right
+    dropdown_hide: '1'
+    width: auto
+    anchor_class: ''
+  blog:
+    enabled: '1'
+    dropdown_dir: right
+    dropdown_hide: '1'
+    width: auto
+  blog/sunshine-in-the-hills:
+    enabled: true
+    anchor_class: ''
+  blog/the-urban-jungle:
+    enabled: true
+    anchor_class: ''
+  blog/london-industry:
+    enabled: true
+    anchor_class: ''
+  projects:
+    enabled: true
+    anchor_class: ''
+  projects/project-one:
+    enabled: true
+    anchor_class: ''
+  projects/project-two:
+    enabled: true
+    anchor_class: ''
+  projects/project-three:
+    enabled: true
+    anchor_class: ''
+  about:
+    enabled: true
+    anchor_class: ''
+  contact:
+    enabled: true
+    anchor_class: ''

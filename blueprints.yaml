@@ -1,0 +1,13 @@
+name: Gantry ePortfolio Blog with Git Sync Site
+version: 0.9.0
+description: "Grav Gantry ePortfolio Blog with Git Sync skeleton package."
+icon: university
+author:
+ name: Paul Hibbitts
+ email: paul@paulhibbitts.org
+ url: http://hibbittsdesign.org
+homepage: https://github.com/hibbitts-design/grav-skeleton-gantry-open-blog
+demo: http://demo.hibbittsdesign.org/grav-skeleton-gantry-open-blog-site/
+keywords: gantry, theme, responsive, open, blog
+bugs: https://github.com/hibbitts-design/grav-skeleton-gantry-open-blog/issues
+license: MIT
