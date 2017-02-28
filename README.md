@@ -20,7 +20,7 @@ The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-sa
 3. Git version 1.7.1 or higher installed on your Webserver
 
 **Installation Steps**  
-1. Download the ready-to-run [ePortfolio Blog with Git Sync Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-eportfolio-blog-git-sync-site.zip)  
+1. Download the ready-to-run [ePortfolio Blog with Git Sync Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-eportfolio-blog-site.zip)  
 2. Unzip the package onto your desktop  
 3. Copy the _entire_ Grav Course Hub folder to your Webserver  
 4. Point your browser to the Webserver folder  
