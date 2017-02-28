@@ -6,8 +6,8 @@ preset:
 layout:
   /navigation/:
     -
-      - 'logo-9608 20'
-      - 'menu-6409 60'
+      - 'logo-9608 25'
+      - 'menu-6409 55'
       - 'social-3171 20'
   /header/: {  }
   /intro/: {  }
@@ -104,7 +104,7 @@ content:
     title: 'Logo / Image'
     attributes:
       svg: ''
-      text: 'My Blog'
+      text: 'MY ePORTFOLIO'
   social-3171:
     block:
       class: g-social-header
