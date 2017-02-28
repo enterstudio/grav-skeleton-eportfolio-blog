@@ -1,5 +1,15 @@
 ---
-title: 'ePortfolio Blog Guide'
+title: 'ePortfolio Blog Setup Guide'
 ---
 
-Content in progress...
+## It's as easy as 1-2-3 to get your ePortfolio Blog going!
+
+1. Create a Git repository on the Web service of your choice (e.g. [GitHub](https://github.com), [GitLab](https://gitlab.com/users/sign_in), [BitBucket](BitBucket) or your school's Git service) and copy the HTTPS address of your Git repository to your clipboard.
+2. Run the setup wizard for the [GitSync Plugin](../../admin/plugins/git-sync) and follow the provided instructions.
+3. And you are done! Visit the Grav [Admin Pages panel](../../admin/pages) to start editing and creating your site page.
+
+Here is a video walkthrough of setting up a ePortfolio Blog:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0JeGfCexdY" frameborder="0" allowfullscreen></iframe>
+
+This ePortfolio Blog is built using the modern flat-file CMS Grav. Explore the Grav documentation at [learn.getgrav.org](http://learn.getgrav.org ).
