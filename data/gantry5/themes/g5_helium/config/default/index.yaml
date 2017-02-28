@@ -1,5 +1,5 @@
 name: default
-timestamp: 1488142597
+timestamp: 1488306641
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -25,7 +25,6 @@ sections:
 particles:
   logo:
     logo-9608: 'Logo / Image'
-    logo-9571: 'Logo / Image'
   menu:
     menu-6409: Menu
   social:
@@ -41,6 +40,8 @@ particles:
     copyright-1736: Copyright
   horizontalmenu:
     horizontalmenu-9034: 'Horizontal Menu'
+  view_git_sync_repo:
+    view_git_sync_repo-1597: 'View Git Sync Repo'
   totop:
     totop-8670: 'To Top'
   mobile-menu:
