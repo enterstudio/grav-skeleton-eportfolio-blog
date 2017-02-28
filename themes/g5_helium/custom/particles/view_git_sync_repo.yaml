@@ -10,3 +10,11 @@ form:
       label: Enabled
       description: Globally enable View Git Sync Repo particle.
       default: true
+
+    custom_git_sync_repo_link:
+        type: input.url
+        label: Custom Repository URL
+        help: Custom URL path to repository
+        description: Custom URL path to repository.
+        validate:
+            type: URL

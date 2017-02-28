@@ -3,9 +3,13 @@
 {% block particle %}
 <div class="view_git_sync_repo {{ particle.css.class }}">
 {% if config.plugins['git-sync'].enabled and config.plugins['git-sync'].repository is not empty %}
-  {% set git_sync_repo = config.plugins['git-sync'].repository %}
-  {% set git_sync_repo_link = (git_sync_repo|replace({'.git':'/'})) %}
-  <a href="{{ git_sync_repo_link }}" title="View Repository">
+  {% if particle.custom_git_sync_repo_link is empty %}
+    {% set git_sync_repo = config.plugins['git-sync'].repository %}
+    {% set git_sync_repo_link = (git_sync_repo|replace({'.git':'/'})) %}
+  {% else %}
+    {% set git_sync_repo_link = particle.custom_git_sync_repo_link %}
+  {% endif %}
+  <a href="{{ git_sync_repo_link }}" title="View Repository" target="_blank">
   <i class="fa fa-git" aria-hidden="true"></i> View Repository</a>
 {% else %}
     {% if not config.plugins['git-sync'].enabled  %}
