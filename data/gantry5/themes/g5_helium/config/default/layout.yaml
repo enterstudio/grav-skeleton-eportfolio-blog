@@ -123,15 +123,10 @@ content:
   horizontalmenu-9034:
     title: 'Horizontal Menu'
     attributes:
-      items:
-        -
-          text: 'Gantry 5 Documentation'
-          link: 'http://docs.gantry.org/'
-          name: 'Gantry 5 Documentation'
+      items: {  }
   view_git_sync_repo-1597:
     title: 'View Git Sync Repo'
     block:
       class: g-totop
-      variations: align-left
   totop-8670:
     title: 'To Top'
