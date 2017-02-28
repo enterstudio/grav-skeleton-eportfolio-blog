@@ -1,6 +1,6 @@
 # Grav Gantry ePortfolio Blog with Git Sync Skeleton
 
-The *ePortfolio Blog with Git Sync* skeleton package is designed to enable the content of an ePortfolio blog to be automatically synced with a Git repository. By default, this package uses the [Gantry](http://gantry.org/) theme Helium.
+The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-savvy students complete control of their content and publishing workflow using modern open Web services. By default, this package uses the [Gantry](http://gantry.org/) theme Helium.
 
 ![](screenshot.jpg)
 

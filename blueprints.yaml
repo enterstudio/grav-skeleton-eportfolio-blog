@@ -1,6 +1,6 @@
 name: Gantry ePortfolio Blog with Git Sync Site
 version: 0.9.0
-description: "Grav Gantry ePortfolio Blog with Git Sync skeleton package."
+description: "Grav ePortfolio Blog with Git Sync, designed to give tech-savvy students complete control of their content and publishing workflow using modern open Web services."
 icon: university
 author:
  name: Paul Hibbitts
