@@ -13,7 +13,6 @@ Here is a video walkthrough of setting up a ePortfolio Blog, where the Git repos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0JeGfCexdY" frameborder="0" allowfullscreen></iframe>
 
 ## Suggested Next Steps
-
 * Explore the Grav documentation at [learn.getgrav.org](http://learn.getgrav.org )
 * Visit the [Page panel](../../admin/pages) to edit and create pages in your site
 * Check out the available [Gantry theme settings](../../admin/gantry/)

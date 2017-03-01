@@ -32,11 +32,24 @@ The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-sa
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)  
 
-### Git Sync Configuration
-Go to your installed Plugins, tap `Git Sync`, and then complete the displayed setup wizard.
+## Git Sync Configuration
+On the bottom of your site pages there will be a reminder displayed to enable GitHub/GitLab syncing of your site content. Tp on the ```Setup Git Sync Plugin``` link and complete the displayed setup wizard.
 
-# Configuration Option
+## Suggested Next Steps
+* Explore the Grav documentation at [learn.getgrav.org](http://learn.getgrav.org )
+* Visit the [Page panel](../../admin/pages) to edit and create pages in your site
+* Check out the available [Gantry theme settings](../../admin/gantry/)
+* Learn about the included [Gantry 5 Framework](http://docs.gantry.org/)
 
+## Want to edit your ePortfolio on your Mac or Windows computer when using GitHub? Here's how:
+1. Download and install [GitHub Desktop](https://desktop.github.com/)
+2. Go to your GitHub repository and tap on the `Clone or download` dropdown button, and then choose `Open in Desktop`
+3. Choose the location of your local GitHub repository
+4. And you are done!
+
+You can now edit your ePortfolio Blog pages locally using the text editor of your choice (i.e. [Atom](https://atom.io/) or [Adobe Brackets](http://brackets.io/)). To upload any changes back to your repository and live site, use the `Sync` and `Publish` buttons in GitHub Desktop. Interested in learning more? Visit the [GitHub Desktop Documentation](https://help.github.com/desktop/).
+
+# Configuration Options
 ## View Git Sync Repository
 ![](/assets/view-git-sync-repo-options.png)
 
