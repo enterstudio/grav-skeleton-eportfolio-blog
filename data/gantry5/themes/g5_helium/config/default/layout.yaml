@@ -34,8 +34,8 @@ layout:
             - position-position-3949
   /footer/:
     -
-      - 'copyright-1736 20'
-      - 'horizontalmenu-9034 45'
+      - 'copyright-1736 25'
+      - 'horizontalmenu-9034 40'
       - 'view_git_sync_repo-1597 20'
       - 'totop-8670 15'
   /offcanvas/:
