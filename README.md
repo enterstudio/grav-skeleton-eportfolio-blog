@@ -35,6 +35,9 @@ The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-sa
 ## Git Sync Configuration
 On the bottom of your site pages there will be a reminder displayed to enable GitHub/GitLab syncing of your site content. Tp on the ```Setup Git Sync Plugin``` link and complete the displayed setup wizard.
 
+## ePortfolio Blog with Git Sync Setup Walkthrough
+[![ePortfolio Blog with Git Sync Setup Walkthrough ](/assets/video.png)](http://www.youtube.com/watch?v=U0JeGfCexdY "ePortfolio Blog with Git Sync Setup Walkthrough ")  
+
 ## Suggested Next Steps
 * Explore the Grav documentation at [learn.getgrav.org](http://learn.getgrav.org )
 * Visit the [Page panel](../../admin/pages) to edit and create pages in your site
