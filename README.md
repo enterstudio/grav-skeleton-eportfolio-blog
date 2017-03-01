@@ -1,5 +1,10 @@
 # Grav Gantry ePortfolio Blog with Git Sync Skeleton
 
+[![Demo](https://img.shields.io/badge/Demo-ePortfolioBlog-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-eportfolio-blog)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-eportfolio-blog/blob/master/LICENSE)
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-open-edu)
+
 The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-savvy students complete control of their content and publishing workflow using modern open Web services. By default, this package uses the [Gantry](http://gantry.org/) theme Helium.
 
 ![](screenshot.jpg)
@@ -29,6 +34,11 @@ The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-sa
 
 ### Git Sync Configuration
 Go to your installed Plugins, tap `Git Sync`, and then complete the displayed setup wizard.
+
+# Configuration Option
+
+## View Git Sync Repository
+![](/assets/view-git-sync-repo-options.png)
 
 ## Gantry 5 Layout Manager
 ![](/assets/layout-manager.png)
