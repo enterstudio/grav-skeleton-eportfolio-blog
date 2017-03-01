@@ -23,7 +23,7 @@ layout:
       - position-footer
     -
       - 'copyright-1566 40'
-      - 'spacer-4275 30'
+      - 'view_git_sync_repo-4109 30'
       - 'branding-4574 30'
   offcanvas:
     -
@@ -60,3 +60,5 @@ content:
   position-footer:
     attributes:
       key: footer
+  view_git_sync_repo-4109:
+    title: 'View Git Sync Repo'

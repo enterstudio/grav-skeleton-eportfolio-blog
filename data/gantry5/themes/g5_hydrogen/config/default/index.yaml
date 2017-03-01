@@ -1,5 +1,5 @@
 name: default
-timestamp: 1488157529
+timestamp: 1488380759
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -30,8 +30,8 @@ particles:
     system-content-6136: 'Page Content'
   copyright:
     copyright-1566: Copyright
-  spacer:
-    spacer-4275: Spacer
+  view_git_sync_repo:
+    view_git_sync_repo-4109: 'View Git Sync Repo'
   branding:
     branding-4574: Branding
   mobile-menu:
