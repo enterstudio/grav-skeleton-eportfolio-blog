@@ -1,5 +1,5 @@
 name: default
-timestamp: 1488327606
+timestamp: 1488468976
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -7,7 +7,6 @@ preset:
   timestamp: 1483477369
 positions:
   aside: Aside
-  sidebar: Sidebar
 sections:
   navigation: Navigation
   intro: Intro
@@ -31,11 +30,12 @@ particles:
     social-3171: Social
   position:
     position-position-4734: Aside
-    position-position-3949: Sidebar
   content:
     system-content-1587: 'Page Content'
   edit_view_page_in_git:
     edit_view_page_in_git-7347: 'Edit/View Page in Git'
+  custom:
+    custom-7273: 'Custom HTML'
   copyright:
     copyright-1736: Copyright
   horizontalmenu:

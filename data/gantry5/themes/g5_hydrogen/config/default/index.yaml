@@ -1,5 +1,5 @@
 name: default
-timestamp: 1488380759
+timestamp: 1488468694
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -12,7 +12,8 @@ positions:
 sections:
   header: Header
   navigation: Navigation
-  main: Main
+  mainbar: Mainbar
+  sidebar: Sidebar
   footer: Footer
   offcanvas: Offcanvas
 particles:
@@ -28,6 +29,8 @@ particles:
     system-messages-6962: 'System Messages'
   content:
     system-content-6136: 'Page Content'
+  custom:
+    custom-9872: 'Custom HTML'
   copyright:
     copyright-1566: Copyright
   view_git_sync_repo:

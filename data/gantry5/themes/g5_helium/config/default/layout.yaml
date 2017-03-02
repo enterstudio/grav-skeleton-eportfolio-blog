@@ -23,15 +23,15 @@ layout:
           -
             - position-position-4734
       -
-        'mainbar 45':
+        'mainbar 50':
           -
             - system-content-1587
           -
             - edit_view_page_in_git-7347
       -
-        'sidebar 30':
+        'sidebar 25':
           -
-            - position-position-3949
+            - custom-7273
   /footer/:
     -
       - 'copyright-1736 25'
@@ -116,10 +116,12 @@ content:
     title: 'Edit/View Page in Git'
     attributes:
       enabled: 0
-  position-position-3949:
-    title: Sidebar
+  custom-7273:
+    title: 'Custom HTML'
     attributes:
-      key: sidebar
+      enabled: 0
+      html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
+      twig: '1'
   horizontalmenu-9034:
     title: 'Horizontal Menu'
     attributes:

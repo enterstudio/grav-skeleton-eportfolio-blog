@@ -11,13 +11,20 @@ layout:
   /navigation/:
     -
       - menu-7150
-  /main/:
+  /container-main/:
     -
-      - position-breadcrumbs
-    -
-      - system-messages-6962
-    -
-      - system-content-6136
+      -
+        'mainbar 75':
+          -
+            - position-breadcrumbs
+          -
+            - system-messages-6962
+          -
+            - system-content-6136
+      -
+        'sidebar 25':
+          -
+            - custom-9872
   /footer/:
     -
       - position-footer
@@ -36,7 +43,11 @@ structure:
     type: section
     attributes:
       boxed: ''
-  main:
+  mainbar:
+    type: section
+  sidebar:
+    type: section
+  container-main:
     attributes:
       boxed: ''
   footer:
@@ -57,6 +68,12 @@ content:
   position-breadcrumbs:
     attributes:
       key: breadcrumbs
+  custom-9872:
+    title: 'Custom HTML'
+    attributes:
+      enabled: 0
+      html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
+      twig: '1'
   position-footer:
     attributes:
       key: footer
