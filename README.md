@@ -17,6 +17,16 @@ The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-sa
 * To easily customize the presentation of your ePortfolio blog using a visual theme builder (i.e. Gantry 5)
 * To be able to easily backup and move your ePortfolio blog to just about any Webhost server
 
+# ePortfolio Blog Highlights
+* [Git Sync Plugin](https://github.com/trilbymedia/grav-plugin-git-sync) for Grav pre-installed
+* [View Git Sync Repository](https://github.com/hibbitts-design/grav-gantry5-particle-view-git-sync-repo) for Gantry pre-installed
+* [Hypothesis Particle](https://github.com/hibbitts-design/grav-gantry5-particle-hypothesis) for Gantry pre-installed
+* Markdown (and optionally HTML) page content
+* Full-width and pages with a right sidebar are supported
+* Sidebar is a standard Grav page, which can also contain HTML
+* [Gantry 5](http://gantry.org/) visual theme builder included
+* Two responsive Gantry 5 themes (Hydrogen and Helium) pre-configured
+
 # Installing the ePortfolio Blog with Git Sync Site
 ## Web Install
 **Pre-flight Checklist**  
