@@ -3,7 +3,7 @@
 [![Demo](https://img.shields.io/badge/Demo-ePortfolioBlog-blue.svg?style=flat-square)](http://demo.hibbittsdesign.org/grav-eportfolio-blog)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/hibbitts-design/grav-skeleton-eportfolio-blog/blob/master/LICENSE)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hibbitts-design/grav-open-edu)
+[![Slack](https://grav-chat.now.sh/badge.svg)](https://chat.getgrav.org)
 
 The *ePortfolio Blog with Git Sync* skeleton package is designed to give tech-savvy students complete control of their content and publishing workflow using modern open Web services. By default, this package uses the [Gantry](http://gantry.org/) theme Helium.
 
