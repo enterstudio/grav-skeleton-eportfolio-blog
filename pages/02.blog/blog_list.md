@@ -13,5 +13,5 @@ content:
     pagination: true
     url_taxonomy_filters: true
 hide_git_repo_link: true
+child_type: blog_item
 ---
-

@@ -1,5 +1,6 @@
 ---
 title: Projects
+child_type: default
 ---
 
 ###Projects
@@ -12,4 +13,3 @@ Your project description here.
 
 #####[Project Three](project-three)
 Your project description here.  
-
