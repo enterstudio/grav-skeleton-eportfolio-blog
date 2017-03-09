@@ -67,5 +67,5 @@ You can now edit your ePortfolio Blog pages locally using the text editor of you
 ![](/assets/view-git-sync-repo-options.png)
 
 ## Gantry 5 Layout Manager
-![](/assets/layout-manager.png)
+![](/assets/layout-manager.jpg)
 _Image courtesy of [gantry.org](http://gantry.org/)_
