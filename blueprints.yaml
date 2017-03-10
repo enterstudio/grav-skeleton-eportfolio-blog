@@ -1,6 +1,6 @@
 name: ePortfolio Blog Site
 version: 0.9.2
-description: "Grav CMS ePortfolio Blog with Git Sync, designed to give tech-savvy students complete control of their content and publishing workflow using modern open Web services. Includes Gantry 5 theme builder."
+description: "ePortfolio Blog with Git Sync, designed to give tech-savvy students control of their content and publishing workflow using modern open Web services. Includes Gantry 5 theme framework."
 icon: university
 author:
  name: Paul Hibbitts
