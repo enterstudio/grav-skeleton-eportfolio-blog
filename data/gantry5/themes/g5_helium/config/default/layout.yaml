@@ -119,7 +119,6 @@ content:
   custom-7273:
     title: 'Custom HTML'
     attributes:
-      enabled: 0
       html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
       twig: '1'
   horizontalmenu-9034:

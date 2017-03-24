@@ -1,5 +1,5 @@
 name: eportfolio_sidebar
-timestamp: 1488475404
+timestamp: 1490363009
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -22,12 +22,6 @@ sections:
   footer: Footer
   offcanvas: Offcanvas
 particles:
-  logo:
-    logo-2179: 'Logo / Image'
-  menu:
-    menu-3554: Menu
-  social:
-    social-5691: Social
   position:
     position-position-4734: Aside
   content:
@@ -36,6 +30,12 @@ particles:
     edit_view_page_in_git-7347: 'Edit/View Page in Git'
   custom:
     custom-7273: 'Custom HTML'
+  logo:
+    logo-2179: 'Logo / Image'
+  menu:
+    menu-3554: Menu
+  social:
+    social-5691: Social
   copyright:
     copyright-4613: Copyright
   horizontalmenu:
@@ -49,9 +49,6 @@ particles:
 inherit:
   default:
     navigation: navigation
-    logo-2179: logo-9608
-    menu-3554: menu-6409
-    social-5691: social-3171
     header: header
     intro: intro
     features: features
@@ -60,9 +57,12 @@ inherit:
     testimonials: testimonials
     expanded: expanded
     footer: footer
+    offcanvas: offcanvas
+    logo-2179: logo-9608
+    menu-3554: menu-6409
+    social-5691: social-3171
     copyright-4613: copyright-1736
     horizontalmenu-2004: horizontalmenu-9034
     view_git_sync_repo-1522: view_git_sync_repo-1597
     totop-1630: totop-8670
-    offcanvas: offcanvas
     mobile-menu-6710: mobile-menu-5697
