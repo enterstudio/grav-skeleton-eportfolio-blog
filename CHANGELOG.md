@@ -1,5 +1,5 @@
 # v0.9.3
-## 03/24/2017
+## 03/27/2017
 
 1. [](#improved)
     * Automatic display of sidebar once any content is in 'Sidebar' markdown file
