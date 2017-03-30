@@ -1,3 +1,9 @@
+# v0.9.4
+## 03/31/2017
+
+1. [](#improved)
+    * Improved support for use of text logo
+
 # v0.9.3
 ## 03/27/2017
 
