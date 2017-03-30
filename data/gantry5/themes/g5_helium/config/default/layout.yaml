@@ -35,8 +35,8 @@ layout:
   /footer/:
     -
       - 'copyright-1736 25'
-      - 'horizontalmenu-9034 40'
-      - 'view_git_sync_repo-1597 20'
+      - 'horizontalmenu-9034 35'
+      - 'view_git_sync_repo-1597 25'
       - 'totop-8670 15'
   /offcanvas/:
     -
@@ -133,6 +133,10 @@ content:
     attributes:
       html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
       twig: '1'
+  copyright-1736:
+    attributes:
+      additional:
+        text: 'Developed by RocketTheme exclusively for Gantry 5.'
   horizontalmenu-9034:
     title: 'Horizontal Menu'
     attributes:
