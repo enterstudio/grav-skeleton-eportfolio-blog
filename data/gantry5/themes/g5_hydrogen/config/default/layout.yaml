@@ -56,8 +56,8 @@ structure:
 content:
   logo-9017:
     attributes:
-      image: 'gantry-assets://images/gantry5-logo.png'
-      text: ''
+      image: ''
+      text: 'My ePORTFOLIO'
       class: gantry-logo
   position-header:
     attributes:
