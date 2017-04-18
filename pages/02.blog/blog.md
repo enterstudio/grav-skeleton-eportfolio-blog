@@ -12,5 +12,5 @@ content:
     show_date: true
     pagination: true
     url_taxonomy_filters: true
-child_type: blog_item
 ---
+

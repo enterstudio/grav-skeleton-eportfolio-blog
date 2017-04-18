@@ -1,3 +1,9 @@
+# v0.9.5
+## XX/XX/2017
+
+1. [](#improved)
+    * Updated the text label for Git repository link
+
 # v0.9.4
 ## 03/31/2017
 
