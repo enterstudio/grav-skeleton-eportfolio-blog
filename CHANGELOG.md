@@ -1,8 +1,9 @@
 # v0.9.5
 ## 04/19/2017
 
-1. [](#improved)
+1. [](#new)
     * Added direct link to skeleton documentation on learn.hibbittsdesign.org
+1. [](#improved)
     * Updated the text label for Git repository link
 
 # v0.9.4
