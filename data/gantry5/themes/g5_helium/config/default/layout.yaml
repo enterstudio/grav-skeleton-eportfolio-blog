@@ -31,7 +31,7 @@ layout:
       -
         'sidebar 25':
           -
-            - sidebar_page-8163
+            - sidebar_page-2206
           -
             - blog_search-6700
           -
@@ -134,10 +134,8 @@ content:
     title: 'Edit/View Page in Git'
     attributes:
       enabled: 0
-  sidebar_page-8163:
+  sidebar_page-2206:
     title: 'Sidebar Page'
-    attributes:
-      enabled: 0
   blog_search-6700:
     title: 'Blog Search'
   blog_tags-2819:

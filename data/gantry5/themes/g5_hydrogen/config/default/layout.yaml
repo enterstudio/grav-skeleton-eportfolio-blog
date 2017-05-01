@@ -24,7 +24,7 @@ layout:
       -
         'sidebar 25':
           -
-            - sidebar_page-1936
+            - sidebar_page-1590
           -
             - blog_search-2925
           -
@@ -74,10 +74,8 @@ content:
   position-breadcrumbs:
     attributes:
       key: breadcrumbs
-  sidebar_page-1936:
+  sidebar_page-1590:
     title: 'Sidebar Page'
-    attributes:
-      enabled: 0
   blog_search-2925:
     title: 'Blog Search'
   blog_tags-9786:

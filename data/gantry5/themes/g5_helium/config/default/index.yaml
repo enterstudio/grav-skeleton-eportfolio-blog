@@ -1,5 +1,5 @@
 name: default
-timestamp: 1493599888
+timestamp: 1493648780
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -35,7 +35,7 @@ particles:
   edit_view_page_in_git:
     edit_view_page_in_git-7347: 'Edit/View Page in Git'
   sidebar_page:
-    sidebar_page-8163: 'Sidebar Page'
+    sidebar_page-2206: 'Sidebar Page'
   blog_search:
     blog_search-6700: 'Blog Search'
   blog_tags:
