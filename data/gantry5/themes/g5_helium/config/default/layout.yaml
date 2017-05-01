@@ -31,7 +31,13 @@ layout:
       -
         'sidebar 25':
           -
-            - custom-7273
+            - sidebar_page-8163
+          -
+            - blog_search-6700
+          -
+            - blog_tags-2819
+          -
+            - feed-8536
   /footer/:
     -
       - 'copyright-1736 25'
@@ -128,11 +134,16 @@ content:
     title: 'Edit/View Page in Git'
     attributes:
       enabled: 0
-  custom-7273:
-    title: 'Custom HTML'
+  sidebar_page-8163:
+    title: 'Sidebar Page'
     attributes:
-      html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
-      twig: '1'
+      enabled: 0
+  blog_search-6700:
+    title: 'Blog Search'
+  blog_tags-2819:
+    title: 'Blog Tags'
+  feed-8536:
+    title: 'Feed Buttons'
   copyright-1736:
     attributes:
       additional:

@@ -24,7 +24,13 @@ layout:
       -
         'sidebar 25':
           -
-            - custom-9872
+            - sidebar_page-1936
+          -
+            - blog_search-2925
+          -
+            - blog_tags-9786
+          -
+            - feed-1231
   /footer/:
     -
       - position-footer
@@ -68,12 +74,16 @@ content:
   position-breadcrumbs:
     attributes:
       key: breadcrumbs
-  custom-9872:
-    title: 'Custom HTML'
+  sidebar_page-1936:
+    title: 'Sidebar Page'
     attributes:
       enabled: 0
-      html: "{% set content = pages.find('/sidebar').content %}\n{% if content %}\n  {{ content|raw }}\n{% endif %}"
-      twig: '1'
+  blog_search-2925:
+    title: 'Blog Search'
+  blog_tags-9786:
+    title: 'Blog Tags'
+  feed-1231:
+    title: 'Feed Buttons'
   position-footer:
     attributes:
       key: footer

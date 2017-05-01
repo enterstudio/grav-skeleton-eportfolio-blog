@@ -1,5 +1,5 @@
 name: default
-timestamp: 1490881753
+timestamp: 1493609482
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -29,8 +29,14 @@ particles:
     system-messages-6962: 'System Messages'
   content:
     system-content-6136: 'Page Content'
-  custom:
-    custom-9872: 'Custom HTML'
+  sidebar_page:
+    sidebar_page-1936: 'Sidebar Page'
+  blog_search:
+    blog_search-2925: 'Blog Search'
+  blog_tags:
+    blog_tags-9786: 'Blog Tags'
+  feed:
+    feed-1231: 'Feed Buttons'
   copyright:
     copyright-1566: Copyright
   view_git_sync_repo:

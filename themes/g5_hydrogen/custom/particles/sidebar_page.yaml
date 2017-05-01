@@ -1,0 +1,11 @@
+name: Sidebar Page
+description: Displays the sidebar page content.
+type: particle
+
+form:
+  fields:
+    enabled:
+      type: input.checkbox
+      label: Enabled
+      description: Globally enable Sidebar Page particle.
+      default: true

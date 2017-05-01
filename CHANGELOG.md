@@ -1,3 +1,11 @@
+# v0.9.6
+## 05/01/2017
+
+1. [](#new)
+    * Added Blog Search and Blog Tags Particles
+1. [](#improved)
+    * Updated default Sidebar behaviour and included Particles
+
 # v0.9.5
 ## 04/19/2017
 
