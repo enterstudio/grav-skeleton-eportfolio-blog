@@ -24,9 +24,9 @@ layout:
       -
         'sidebar 25':
           -
-            - blog_search-2925
-          -
             - inject_page-8029
+          -
+            - blog_search-2925
           -
             - blog_tags-9786
           -
@@ -74,12 +74,12 @@ content:
   position-breadcrumbs:
     attributes:
       key: breadcrumbs
-  blog_search-2925:
-    title: 'Blog Search'
   inject_page-8029:
     title: 'Inject Page'
     attributes:
       page: sidebar
+  blog_search-2925:
+    title: 'Blog Search'
   blog_tags-9786:
     title: 'Blog Tags'
   blog_feed-4154:
