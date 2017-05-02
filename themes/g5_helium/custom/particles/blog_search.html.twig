@@ -1,7 +1,7 @@
 {% extends '@nucleus/partials/particle.html.twig' %}
 
 {% block particle %}
-{% if config.plugins.simplesearch.enabled and not page.feed.skip and page.header.content %}
+{% if config.plugins.simplesearch.enabled and not page.header.hidesearch %}
   <div class="blog_search {{ particle.css.class }}">
   {% include 'partials/simplesearch_searchbox.html.twig' %}
   {% do gantry.theme.load('jquery') %}

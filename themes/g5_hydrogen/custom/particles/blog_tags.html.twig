@@ -1,7 +1,7 @@
 {% extends '@nucleus/partials/particle.html.twig' %}
 
 {% block particle %}
-{% if config.plugins.taxonomylist.enabled and not page.feed.skip and page.header.content %}
+{% if config.plugins.taxonomylist.enabled and not page.header.hidetags  %}
   <div class="blog_tags {{ particle.css.class }}">
   {% set new_base_url = base_url_relative ~ "/" ~ particle.blog_root %}
   <h4>{{particle.header_text}}</h4>

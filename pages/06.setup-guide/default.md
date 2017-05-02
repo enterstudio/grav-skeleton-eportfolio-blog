@@ -1,5 +1,9 @@
 ---
 title: 'ePortfolio Blog Setup Guide'
+hidesidebarpage: true
+hidesearch: true
+hidetags: true
+hidefeedbuttons: true
 ---
 
 ## It's as easy as 1-2-3 to get your ePortfolio Blog up and running!

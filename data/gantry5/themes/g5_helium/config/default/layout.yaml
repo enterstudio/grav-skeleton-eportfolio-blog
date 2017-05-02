@@ -37,7 +37,7 @@ layout:
           -
             - blog_tags-2819
           -
-            - feed-8536
+            - blog_feed-2555
   /footer/:
     -
       - 'copyright-1736 25'
@@ -140,8 +140,8 @@ content:
     title: 'Blog Search'
   blog_tags-2819:
     title: 'Blog Tags'
-  feed-8536:
-    title: 'Feed Buttons'
+  blog_feed-2555:
+    title: 'Blog Feed Buttons'
   copyright-1736:
     attributes:
       additional:

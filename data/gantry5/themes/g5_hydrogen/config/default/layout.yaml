@@ -30,7 +30,7 @@ layout:
           -
             - blog_tags-9786
           -
-            - feed-1231
+            - blog_feed-4154
   /footer/:
     -
       - position-footer
@@ -80,8 +80,8 @@ content:
     title: 'Blog Search'
   blog_tags-9786:
     title: 'Blog Tags'
-  feed-1231:
-    title: 'Feed Buttons'
+  blog_feed-4154:
+    title: 'Blog Feed Buttons'
   position-footer:
     attributes:
       key: footer

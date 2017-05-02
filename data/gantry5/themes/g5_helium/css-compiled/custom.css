@@ -16,25 +16,28 @@
 /* line 6, user/themes/g5_helium/custom/scss/custom.scss */
 .blog_search {
   margin-top: 0.9rem;
-  margin-bottom: -1rem;
 }
-/* line 11, user/themes/g5_helium/custom/scss/custom.scss */
+/* line 10, user/themes/g5_helium/custom/scss/custom.scss */
+.blog_tags {
+  margin-top: 0.9rem;
+}
+/* line 14, user/themes/g5_helium/custom/scss/custom.scss */
 .button {
   padding: 0.75rem 2.125rem;
 }
-/* line 15, user/themes/g5_helium/custom/scss/custom.scss */
+/* line 18, user/themes/g5_helium/custom/scss/custom.scss */
 div[data-grav-field="password"] {
   margin-bottom: 1rem;
 }
-/* line 19, user/themes/g5_helium/custom/scss/custom.scss */
+/* line 22, user/themes/g5_helium/custom/scss/custom.scss */
 body {
   font-size: 1rem;
 }
-/* line 23, user/themes/g5_helium/custom/scss/custom.scss */
+/* line 26, user/themes/g5_helium/custom/scss/custom.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 0.75rem 0 -0.6rem;
 }
-/* line 27, user/themes/g5_helium/custom/scss/custom.scss */
+/* line 30, user/themes/g5_helium/custom/scss/custom.scss */
 .g-logo {
   text-transform: none;
 }
