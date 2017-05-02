@@ -1,3 +1,10 @@
+# v1.0.0
+## 05/03/2017
+
+1. [](#improved)
+    * Included Page Inject Particle
+    * Revised default layout of sidebar
+
 # v0.9.7
 ## 05/02/2017
 
