@@ -2,6 +2,7 @@
 ## 05/02/2017
 
 1. [](#improved)
+    * Adjusted default button height
     * Improved layout of blog Particles
 
 # v0.9.6
