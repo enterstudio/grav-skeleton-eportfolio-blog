@@ -1,7 +1,7 @@
 {% extends '@nucleus/partials/particle.html.twig' %}
 
 {% block particle %}
-{% if config.plugins.feed.enabled and not page.header.hidesidebarpage %}
+{% if not page.header.hidesidebarpage %}
   {% set content = pages.find('/sidebar').content %}
   {% if content %}
     <div class="sidebar_page {{ particle.css.class }}">

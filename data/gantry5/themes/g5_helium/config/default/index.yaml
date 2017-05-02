@@ -1,5 +1,5 @@
 name: default
-timestamp: 1493743714
+timestamp: 1493745980
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -37,7 +37,7 @@ particles:
   sidebar_page:
     sidebar_page-2206: 'Sidebar Page'
   blog_search:
-    blog_search-6700: 'Blog Search'
+    blog_search-7091: 'Blog Search'
   blog_tags:
     blog_tags-2819: 'Blog Tags'
   blog_feed:

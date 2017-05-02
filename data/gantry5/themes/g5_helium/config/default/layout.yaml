@@ -33,7 +33,7 @@ layout:
           -
             - sidebar_page-2206
           -
-            - blog_search-6700
+            - blog_search-7091
           -
             - blog_tags-2819
           -
@@ -136,7 +136,7 @@ content:
       enabled: 0
   sidebar_page-2206:
     title: 'Sidebar Page'
-  blog_search-6700:
+  blog_search-7091:
     title: 'Blog Search'
   blog_tags-2819:
     title: 'Blog Tags'

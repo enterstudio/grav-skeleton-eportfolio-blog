@@ -3,7 +3,9 @@
 
 1. [](#improved)
     * Adjusted default button height
-    * Improved layout of blog Particles
+    * Improved layout of sidebar Blog Particles
+    * Blog sidebar-related widgets only displayed on blog pages
+    * Added page frontmatter option to hide site-wide sidebar page widget
 
 # v0.9.6
 ## 05/01/2017
