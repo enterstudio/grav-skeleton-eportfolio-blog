@@ -1,3 +1,9 @@
+# v0.9.7
+## 05/02/2017
+
+1. [](#improved)
+    * Improved layout of blog Particles
+
 # v0.9.6
 ## 05/01/2017
 
