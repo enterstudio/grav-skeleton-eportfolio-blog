@@ -20,7 +20,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: g5_hydrogen
+  theme: g5_helium
   order:
     by: default
     dir: asc
