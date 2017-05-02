@@ -31,7 +31,7 @@ layout:
       -
         'sidebar 25':
           -
-            - sidebar_page-2206
+            - inject_page-3944
           -
             - blog_search-7091
           -
@@ -134,8 +134,10 @@ content:
     title: 'Edit/View Page in Git'
     attributes:
       enabled: 0
-  sidebar_page-2206:
-    title: 'Sidebar Page'
+  inject_page-3944:
+    title: 'Inject Page'
+    attributes:
+      page: sidebar
   blog_search-7091:
     title: 'Blog Search'
   blog_tags-2819:
