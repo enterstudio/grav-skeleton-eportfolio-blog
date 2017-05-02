@@ -1,5 +1,5 @@
 name: default
-timestamp: 1493763385
+timestamp: 1493764989
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -34,10 +34,10 @@ particles:
     system-content-1587: 'Page Content'
   edit_view_page_in_git:
     edit_view_page_in_git-7347: 'Edit/View Page in Git'
-  inject_page:
-    inject_page-3944: 'Inject Page'
   blog_search:
     blog_search-7091: 'Blog Search'
+  inject_page:
+    inject_page-3944: 'Inject Page'
   blog_tags:
     blog_tags-2819: 'Blog Tags'
   blog_feed:

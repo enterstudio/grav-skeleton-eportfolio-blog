@@ -1,5 +1,5 @@
 name: default
-timestamp: 1493763552
+timestamp: 1493765017
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -29,10 +29,10 @@ particles:
     system-messages-6962: 'System Messages'
   content:
     system-content-6136: 'Page Content'
-  inject_page:
-    inject_page-8029: 'Inject Page'
   blog_search:
     blog_search-2925: 'Blog Search'
+  inject_page:
+    inject_page-8029: 'Inject Page'
   blog_tags:
     blog_tags-9786: 'Blog Tags'
   blog_feed:
