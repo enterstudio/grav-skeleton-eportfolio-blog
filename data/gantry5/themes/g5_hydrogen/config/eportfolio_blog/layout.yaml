@@ -1,0 +1,101 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1483477403
+layout:
+  /header/:
+    -
+      - 'logo-9017 30'
+      - 'position-header 70'
+  navigation: {  }
+  /container-main/:
+    -
+      -
+        'mainbar 75':
+          -
+            - position-breadcrumbs
+          -
+            - system-messages-6962
+          -
+            - system-content-6136
+      -
+        'sidebar 25':
+          -
+            - inject_page-8029
+          -
+            - blog_search-2925
+          -
+            - blog_tags-9786
+          -
+            - blog_feed-4154
+  /footer/:
+    -
+      - position-footer
+    -
+      - 'copyright-1566 40'
+      - 'view_git_sync_repo-4109 30'
+      - 'branding-4574 30'
+  offcanvas: {  }
+structure:
+  header:
+    attributes:
+      boxed: ''
+      class: ''
+  navigation:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  mainbar:
+    type: section
+    attributes:
+      class: ''
+  sidebar:
+    type: section
+    attributes:
+      class: ''
+  container-main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+      class: ''
+  offcanvas:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+content:
+  logo-9017:
+    attributes:
+      image: ''
+      text: 'My ePORTFOLIO'
+      class: gantry-logo
+  position-header:
+    attributes:
+      key: header
+  position-breadcrumbs:
+    attributes:
+      key: breadcrumbs
+  inject_page-8029:
+    title: 'Inject Page'
+    attributes:
+      page: sidebar
+  blog_search-2925:
+    title: 'Blog Search'
+  blog_tags-9786:
+    title: 'Blog Tags'
+  blog_feed-4154:
+    title: 'Blog Feed Buttons'
+  position-footer:
+    attributes:
+      key: footer
+  view_git_sync_repo-4109:
+    title: 'View Git Sync Repo'

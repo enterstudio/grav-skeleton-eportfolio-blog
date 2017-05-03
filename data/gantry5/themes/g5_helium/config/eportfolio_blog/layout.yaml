@@ -1,0 +1,192 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1483477369
+layout:
+  /navigation/:
+    -
+      - 'logo-9608 30'
+      - 'menu-6409 55'
+      - 'social-3171 15'
+  header: {  }
+  intro: {  }
+  features: {  }
+  utility: {  }
+  above: {  }
+  testimonials: {  }
+  expanded: {  }
+  /container-main/:
+    -
+      -
+        'aside 25':
+          -
+            - position-position-4734
+      -
+        'mainbar 50':
+          -
+            - system-content-1587
+          -
+            - edit_view_page_in_git-7347
+      -
+        'sidebar 25':
+          -
+            - inject_page-3944
+          -
+            - blog_search-7091
+          -
+            - blog_tags-2819
+          -
+            - blog_feed-2555
+  /footer/:
+    -
+      - 'copyright-1736 25'
+      - 'horizontalmenu-9034 35'
+      - 'view_git_sync_repo-1597 25'
+      - 'totop-8670 15'
+  offcanvas: {  }
+structure:
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+      class: ''
+  header:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  intro:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  features:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  utility:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  above:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  testimonials:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  expanded:
+    type: section
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+  aside:
+    attributes:
+      class: ''
+    block:
+      fixed: '1'
+  mainbar:
+    type: section
+    subtype: main
+    attributes:
+      class: ''
+  sidebar:
+    type: section
+    subtype: aside
+    attributes:
+      class: ''
+    block:
+      fixed: '1'
+  container-main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+      class: ''
+  offcanvas:
+    inherit:
+      outline: default
+      include:
+        - attributes
+        - block
+        - children
+content:
+  logo-9608:
+    title: 'Logo / Image'
+    attributes:
+      svg: ''
+      text: 'MY ePORTFOLIO'
+  social-3171:
+    attributes:
+      items:
+        -
+          icon: 'fa fa-twitter fa-fw'
+          text: ''
+          link: 'http://www.twitter.com/rockettheme'
+          name: Twitter
+        -
+          icon: 'fa fa-facebook fa-fw'
+          text: ''
+          link: 'http://www.facebook.com/RocketTheme'
+          name: Facebook
+    block:
+      class: g-social-header
+  position-position-4734:
+    title: Aside
+    attributes:
+      key: aside
+  edit_view_page_in_git-7347:
+    title: 'Edit/View Page in Git'
+    attributes:
+      enabled: 0
+  inject_page-3944:
+    title: 'Inject Page'
+    attributes:
+      page: sidebar
+  blog_search-7091:
+    title: 'Blog Search'
+  blog_tags-2819:
+    title: 'Blog Tags'
+  blog_feed-2555:
+    title: 'Blog Feed Buttons'
+  copyright-1736:
+    attributes:
+      additional:
+        text: 'Developed by RocketTheme exclusively for Gantry 5.'
+  horizontalmenu-9034:
+    title: 'Horizontal Menu'
+    attributes:
+      items: {  }
+  view_git_sync_repo-1597:
+    title: 'View Git Sync Repo'
+    block:
+      class: g-totop
+  totop-8670:
+    title: 'To Top'

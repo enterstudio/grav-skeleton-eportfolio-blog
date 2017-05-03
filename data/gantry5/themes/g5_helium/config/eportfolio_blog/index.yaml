@@ -1,0 +1,65 @@
+name: eportfolio_blog
+timestamp: 1493773487
+version: 7
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1483477369
+positions:
+  aside: Aside
+sections:
+  navigation: Navigation
+  intro: Intro
+  features: Features
+  utility: Utility
+  above: Above
+  testimonials: Testimonials
+  expanded: Expanded
+  header: Header
+  aside: Aside
+  sidebar: Sidebar
+  mainbar: Mainbar
+  footer: Footer
+  offcanvas: Offcanvas
+particles:
+  logo:
+    logo-9608: 'Logo / Image'
+  menu:
+    menu-6409: Menu
+  social:
+    social-3171: Social
+  position:
+    position-position-4734: Aside
+  content:
+    system-content-1587: 'Page Content'
+  edit_view_page_in_git:
+    edit_view_page_in_git-7347: 'Edit/View Page in Git'
+  inject_page:
+    inject_page-3944: 'Inject Page'
+  blog_search:
+    blog_search-7091: 'Blog Search'
+  blog_tags:
+    blog_tags-2819: 'Blog Tags'
+  blog_feed:
+    blog_feed-2555: 'Blog Feed Buttons'
+  copyright:
+    copyright-1736: Copyright
+  horizontalmenu:
+    horizontalmenu-9034: 'Horizontal Menu'
+  view_git_sync_repo:
+    view_git_sync_repo-1597: 'View Git Sync Repo'
+  totop:
+    totop-8670: 'To Top'
+  mobile-menu:
+    mobile-menu-5919: Mobile-menu
+inherit:
+  default:
+    header: header
+    intro: intro
+    features: features
+    utility: utility
+    above: above
+    testimonials: testimonials
+    expanded: expanded
+    offcanvas: offcanvas
+    mobile-menu-5919: mobile-menu-5697
