@@ -4,6 +4,7 @@
 1. [](#improved)
     * Included Page Inject Particle
     * Revised default layout of sidebar
+    * Included updated 'Edit/View Page in Git' Particle
 
 # v0.9.7
 ## 05/02/2017
