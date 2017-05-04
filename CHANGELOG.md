@@ -1,3 +1,9 @@
+# v1.0.1
+## 05/04/2017
+
+1. [](#improved)
+    * Changed default Gantry 5 mode to Production
+
 # v1.0.0
 ## 05/03/2017
 
