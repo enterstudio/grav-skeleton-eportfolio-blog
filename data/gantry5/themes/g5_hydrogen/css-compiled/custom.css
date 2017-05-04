@@ -8,36 +8,47 @@
    http://docs.gantry.org/gantry5/tutorials/adding-a-custom-style-sheet
  */
 
-/* line 1, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 2, user/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_nav.scss */
+/* line 12, user/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_nav.scss */
+/* line 2, user/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_utilities.scss */
+/* line 9, user/plugins/gantry5/engines/nucleus/scss/nucleus/mixins/_utilities.scss */
+/* line 1, user/themes/g5_hydrogen/scss/mixins/_nav.scss */
+@media only all and (max-width: 47.938rem) {
+  /* line 4, user/themes/g5_hydrogen/custom/scss/custom.scss */
+  .g-main-nav {
+    display: none;
+  }
+}
+/* line 9, user/themes/g5_hydrogen/custom/scss/custom.scss */
 .inject_page {
   margin-top: -0.7rem;
   margin-bottom: -2rem;
 }
-/* line 6, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 14, user/themes/g5_hydrogen/custom/scss/custom.scss */
 .blog_search {
   margin-top: 0.9rem;
 }
-/* line 10, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 18, user/themes/g5_hydrogen/custom/scss/custom.scss */
 .blog_tags {
   margin-top: 0.9rem;
 }
-/* line 14, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 22, user/themes/g5_hydrogen/custom/scss/custom.scss */
 div[data-grav-field="password"] {
   margin-bottom: 1rem;
 }
-/* line 18, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 26, user/themes/g5_hydrogen/custom/scss/custom.scss */
 body {
   font-size: 1rem;
 }
-/* line 22, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 30, user/themes/g5_hydrogen/custom/scss/custom.scss */
 h1, h2, h3, h4, h5, h6 {
   margin: 0.75rem 0 -0.6rem;
 }
-/* line 26, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 34, user/themes/g5_hydrogen/custom/scss/custom.scss */
 #g-sidebar, #g-aside {
   padding: 0;
 }
-/* line 30, user/themes/g5_hydrogen/custom/scss/custom.scss */
+/* line 38, user/themes/g5_hydrogen/custom/scss/custom.scss */
 .gantry-logo {
   font-size: 2rem;
   font-weight: 900;
