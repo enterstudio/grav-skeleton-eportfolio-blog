@@ -4,6 +4,7 @@
 1. [](#improved)
     * Changed default Gantry 5 mode to Production
     * Improved mobile menu rendering
+    * Removed default Social Particle from menubar
 
 # v1.0.0
 ## 05/03/2017

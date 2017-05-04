@@ -1,5 +1,5 @@
 name: eportfolio_blog
-timestamp: 1493773487
+timestamp: 1493924350
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
@@ -26,8 +26,6 @@ particles:
     logo-9608: 'Logo / Image'
   menu:
     menu-6409: Menu
-  social:
-    social-3171: Social
   position:
     position-position-4734: Aside
   content:
