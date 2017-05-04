@@ -1,3 +1,11 @@
+@import "dependencies";
+
+@include breakpoint(mobile-only) {
+    .g-main-nav {
+        display:none;
+    }
+}
+
 .inject_page {
     margin-top: -.7rem;
     margin-bottom: -2rem;
